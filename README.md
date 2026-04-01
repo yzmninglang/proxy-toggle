@@ -131,7 +131,8 @@ adb shell settings delete global global_http_proxy_port
 
 ## 致谢
 
-本项目基于开源项目 [android-proxy-toggle](https://github.com/theappbusiness/android-proxy-toggle) 修改，感谢原作者的贡献。
+- 本项目基于开源项目 [android-proxy-toggle](https://github.com/theappbusiness/android-proxy-toggle) 修改，感谢原作者的贡献。
+- 感谢 [LINUX DO](https://linux.do/) 论坛提供的技术交流与支持。
 
 ## 许可证
 
